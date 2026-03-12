@@ -1,0 +1,49 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to My Webpage</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+        </section>
+
+        <section>
+            
+    <p><b>Name: SANMAY V.T</b> </p>
+    <p><b>Branch / Year:</b> Computer Science Engineering - 2nd Year</p>
+
+        </section>
+
+        <section>
+             <h2>Introduction</h2>
+    <p>
+        Hello! My name is Sanmay. I am currently studying Computer Science Engineering.
+        I am interested in technology, programming, and web development.
+        In the future, I want to build innovative software and work in top tech
+        companies like Apple and Automotive companies like BMW or Audi. My domain interest is software development and FULL STACK .
+    </p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Playing Cricket</li>
+        <li>Watching Cricket</li>
+        <li>Car enthusiast</li>
+    </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>@2026 Sanmay. All rights reserved</p>
+    </footer>
+   
+
+</body>
+</html>
