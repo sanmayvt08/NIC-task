@@ -69,7 +69,7 @@
         </div>
         <div>
         <img src="BMW1.jpeg" alt="cricket-image 3">
-        <p>BMW M4 Test Batter - Steve Smith </p>
+        <p>BMW M4  </p>
         </div>
         <div>
             <img src="Audi1.jpeg" alt="cricket-image 4">
@@ -80,5 +80,8 @@
             <p>Volvo XC60</p>
         </div>  
     </div>
+<footer>
+         <p>@2026 Sanmay. All rights reserved</p>
+    </footer>
 </body>
 </html>
