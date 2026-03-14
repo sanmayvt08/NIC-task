@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <style>
+        .cricket-images{
+            display: flex;
+            gap: 15px;
+        }
+        .cricket-images img{
+            width: 250px;
+            border-radius: 10px;
+        }
+        h2{
+            font-style: italic;
+        }
+        p{
+            font-style: oblique;
+        }
+        .car-images{
+            display: flex;
+            gap: 15px;
+        }
+        .car-images img{
+            width: 250px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Image Gallery </h1>
+        <h2>The Pics Which I love most</h2>
+    </header>
+    <h2>Cricket</h2>
+    <div class="cricket-images">
+        <div>
+        <img src="KL1.jpeg" alt="cricket-image 1">
+        <p>Classic KL Rahul</p>
+        </div>
+        <div>
+        <img src="IK1.jpeg" alt="cricket-image 2">
+        <p> Ishan Kishan </p>
+        </div>
+        <div>
+        <img src="SM1.jpeg" alt="cricket-image 3">
+        <p>Most Consistent Test Batter - Steve Smith </p>
+        </div>
+        <div>
+            <img src="VK1.jpeg" alt="cricket-image 4">
+            <p>One of the Best Batsman- Virat Kohli</p>
+        </div>    
+         <div>
+            <img src="BS2.jpeg" alt="cricket-image 5">
+            <p>One of the Best Allrounders - Ben Stokes</p>
+        </div>  
+    </div>
+     <h2>Car</h2>
+    <div class="car-images">
+        <div>
+        <img src="RRS1.jpeg" alt="cricket-image 1">
+        <p>Range Rover Sport</p>
+        </div>
+        <div>
+        <img src="CE1.jpeg" alt="cricket-image 2">
+        <p> Cadillac Escalade </p>
+        </div>
+        <div>
+        <img src="BMW1.jpeg" alt="cricket-image 3">
+        <p>BMW M4 Test Batter - Steve Smith </p>
+        </div>
+        <div>
+            <img src="Audi1.jpeg" alt="cricket-image 4">
+            <p>Audi RS7</p>
+        </div>    
+         <div>
+            <img src="Volvo1.jpeg" alt="cricket-image 5">
+            <p>Volvo XC60</p>
+        </div>  
+    </div>
+</body>
+</html>
